@@ -27,5 +27,3 @@ jobs:
 
       - name: scan code for syntax
         run: flake8 app.py
-
-        
